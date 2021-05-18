@@ -1,0 +1,8 @@
+.bawarchi{
+    width:120px;
+    height:110px;
+    border-radius:50%;
+    position: absolute;
+    top: -12%;
+    left: calc(50% - 50px);
+}

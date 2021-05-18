@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://media.istockphoto.com/photos/empty-dark-wooden-table-in-front-of-abstract-blurred-bokeh-background-picture-id1130714046?k=6&m=1130714046&s=612x612&w=0&h=AqePj4OXa9kJDTGuh10EVF8GbcWpo6m7mEHE8xOm7nI=');
+    background-size: cover;
+    background-position: contain;
+    background-repeat : no-repeat;
+    font-family: sans-serif;
+}
+
+.login-box{
+    width:400px;
+    height:450px;
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    top: 55%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px;
+}
+
+.avatar{
+    width:120px;
+    height:110px;
+    border-radius:50%;
+    position: absolute;
+    top: -12%;
+    left: calc(50% - 50px);
+
+}
+
