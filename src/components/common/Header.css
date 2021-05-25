@@ -6,3 +6,7 @@
     top: -12%;
     left: calc(50% - 50px);
 }
+ .navbar-nav{
+    margin: 20px;
+    margin-right: 50px;
+ }
